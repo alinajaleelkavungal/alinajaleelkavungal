@@ -65,12 +65,7 @@ A website developed for a resort in Wayanad, featuring accommodation information
 
 **Technologies:** Next.js, React, Tailwind CSS.
 
-### 3. Portfolio Website
-**Personal Developer Portfolio**
 
-A personal website showcasing my background, technical skills, projects and professional journey.
-
-**Technologies:** Next.js, React, Tailwind CSS.
 
 ---
 
